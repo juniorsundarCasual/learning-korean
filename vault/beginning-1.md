@@ -2,11 +2,11 @@
 id: 6vm07hefu1sbp0j4s1tgvl6
 title: Integrated Korean - Beginning 1
 desc: ''
-updated: 1647155941144
+updated: 1647158050404
 created: 1647151565472
 ---
 
-![Front_Cover](./assets/ik-b1.png)
+![Front_Cover](./assets/beginning-1.ik-b1.png)
 
 ## Introduction
 
