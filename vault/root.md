@@ -1,20 +1,16 @@
 ---
 id: ww9jqhl56e9hxpmai42fi73
-title: Root
+title: Learning Korean
 desc: ''
-updated: 1647150317323
+updated: 1647152309192
 created: 1647150317323
 ---
-# Welcome to Dendron
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
+## Introduction
 
-## Lookup
+In this repository, I have stored my comprehensive notes while learning Korean from the textbook series "[Integrated Korean](https://kleartextbook.com/category/a_about-klear/a_publications/)". The notes are tailored to how I learn best, thus it may not always be applicable to you. Nonetheless, good luck on your endeavour to learn this language.
 
-This section contains useful links to related resources.
+## Useful Links
 
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
+- To memorise and practice vocabulary, access: 
+  [Quizlet](https://quizlet.com/junu10/folders/korean?x=1xqt&i=9v8a5)
