@@ -2,7 +2,7 @@
 id: v86ww4hlx98uob9ipciq5sl
 title: Lesson 1 - Greetings
 desc: ''
-updated: 1647157574634
+updated: 1647157767300
 created: 1647151565468
 status: ''
 due: ''
@@ -10,15 +10,18 @@ priority: ''
 owner: ''
 ---
 
-## Objectives
+## [[beginning-1.lesson-1-greetings.new-words-and-expressions]]
 
-### [[beginning-1.lesson-1-greetings.cultural-norms]]
+1. Vocabulary
+2. Notes in Conversation
+
+## [[beginning-1.lesson-1-greetings.cultural-norms]]
 
 1. Greeting with a bow
 2. Korean names
 3. Social hierarchy and terms of address
 
-### [[beginning-1.lesson-1-greetings.grammar]]
+## [[beginning-1.lesson-1-greetings.grammar]]
 
 **G1.1**: Equational Expressions
 > (Noun$_1$은/는) Noun$_2$이에요/예요. (N$_1$$=$N$_2$)  
@@ -34,7 +37,7 @@ owner: ''
 
 **G1.5**: Using a title or a name instead of "you"
 
-### [[beginning-1.lesson-1-greetings.task-function]]
+## [[beginning-1.lesson-1-greetings.task-function]]
 
 1. Greetings
 2. Introducing oneself
