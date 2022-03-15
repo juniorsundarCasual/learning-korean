@@ -2,7 +2,7 @@
 id: 6vm07hefu1sbp0j4s1tgvl6
 title: Integrated Korean - Beginning 1
 desc: ''
-updated: 1647158207887
+updated: 1647329732334
 created: 1647151565472
 ---
 
@@ -17,9 +17,14 @@ I am assuming that we already know how to read Korean alphabets (한글). If thi
 
 ## Chapters
 
-[[beginning-1.lesson-1-greetings]]  
-[[beginning-1.lesson-2-university-campus]]  
-[[beginning-1.lesson-3-korean-language-class]]  
-[[beginning-1.lesson-4-at-school]]  
-[[beginning-1.lesson-5-my-day]]  
-[[beginning-1.lesson-6-the-weekend]]  
+![[beginning-1.lesson-1-greetings]]
+
+![[beginning-1.lesson-2-university-campus]]
+
+![[beginning-1.lesson-3-korean-language-class]]
+
+![[beginning-1.lesson-4-at-school]]
+
+![[beginning-1.lesson-5-my-day]]
+
+![[beginning-1.lesson-6-the-weekend]]  
