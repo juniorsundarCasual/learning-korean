@@ -35,8 +35,6 @@ owner: ''
 > A: N이에요/예요?  
 > B: 네/이니오, N이에요/예요.
 
-**G1.5**: Using a title or a name instead of "you"
-
 ## [[beginning-1.lesson-1-greetings.task-function]]
 
 1. Greetings
