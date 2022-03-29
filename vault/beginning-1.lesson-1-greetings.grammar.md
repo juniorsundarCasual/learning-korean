@@ -18,11 +18,13 @@ In this context, we look at **noun equivalency**. Note that if the following sen
 - $N_1 = N_2$
 - $\dots = N_3 \leftarrow N_1=N_3 \textrm{, carries over}$
 
-### Case 1: $N_1 = N_2$
+### Noun Equivalency
+(NOTE: after consonant/after vowel)
+- **Polite Style**: $N_1$+은/는 $N_2$+이에요/예요 
+- **Deferential Style**: $N_1$+은/는 $N_2$+입니다/ㅂ니다
+- **Casual Style**: $N_1$+은/는 $N_2$+이야/야
 
-
-
-### Case 2: $N_1 \neq N_2$
+### Noun Inquivalency
 
 
 ## G1.2: Omission of redundant elements

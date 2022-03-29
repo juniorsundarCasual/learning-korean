@@ -44,7 +44,7 @@ Korean's don't use the word you when refering to a second party (most of the tim
     </tr>
 </table>
 
-**Close friend:** [First Name] + 아/야  
+**Close friend:** [First Name] + 아/야
 <table width="100%">
     <tr style ='border: 1px'>
         <td width="20%" style ='border: 0px'> <b>Example</b> </td>
