@@ -1,0 +1,155 @@
+{
+  "roots": [
+    {
+      "key": "ww9jqhl56e9hxpmai42fi73",
+      "title": "Learning Korean",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "6vm07hefu1sbp0j4s1tgvl6",
+          "title": "Integrated Korean - Beginning 1",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "v86ww4hlx98uob9ipciq5sl",
+              "title": "Lesson 1 - Greetings",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "mwdv9nrpueyskt2baegwslr",
+                  "title": "Cultural Norms",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "b11y97xrj4skfpt8zech6v6",
+                  "title": "Grammar",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "0qkqtbjatm4zani9rkqxih6",
+                  "title": "New Words and Expressions",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "o10gbvvafeqyshk9te3k14f",
+                  "title": "Task/Function",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "5v8nxopvv9bpgzdn5q8tr8s",
+              "title": "Lesson 2 - University Campus",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "ghj1homo8ljv360npjk6uwk",
+                  "title": "Cultural Norms",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "8jccm2ogmyjgt8hz50rvh8p",
+                  "title": "Grammar",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "ar6fgobke62sudnh49xo68m",
+                  "title": "New Words and Expressions",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "cb7crzpsqprsq6h362lp17p",
+                  "title": "Task Function",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "qo57nhgeh2jz0w192oudn1d",
+              "title": "Lesson 3 - Korean Language Class",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "rbz5sh0s3rjgnw2jdmmi9zf",
+              "title": "Lesson 4 - At School",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "i17foucnj3gd33npg8hcx6s",
+              "title": "Lesson 5 - My Day",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "fzdcbmzwu1ar024ij8ce2ri",
+              "title": "Lesson 6 - The Weekend",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "ww9jqhl56e9hxpmai42fi73": null,
+    "6vm07hefu1sbp0j4s1tgvl6": "ww9jqhl56e9hxpmai42fi73",
+    "fzdcbmzwu1ar024ij8ce2ri": "6vm07hefu1sbp0j4s1tgvl6",
+    "i17foucnj3gd33npg8hcx6s": "6vm07hefu1sbp0j4s1tgvl6",
+    "rbz5sh0s3rjgnw2jdmmi9zf": "6vm07hefu1sbp0j4s1tgvl6",
+    "qo57nhgeh2jz0w192oudn1d": "6vm07hefu1sbp0j4s1tgvl6",
+    "5v8nxopvv9bpgzdn5q8tr8s": "6vm07hefu1sbp0j4s1tgvl6",
+    "cb7crzpsqprsq6h362lp17p": "5v8nxopvv9bpgzdn5q8tr8s",
+    "ar6fgobke62sudnh49xo68m": "5v8nxopvv9bpgzdn5q8tr8s",
+    "8jccm2ogmyjgt8hz50rvh8p": "5v8nxopvv9bpgzdn5q8tr8s",
+    "ghj1homo8ljv360npjk6uwk": "5v8nxopvv9bpgzdn5q8tr8s",
+    "v86ww4hlx98uob9ipciq5sl": "6vm07hefu1sbp0j4s1tgvl6",
+    "o10gbvvafeqyshk9te3k14f": "v86ww4hlx98uob9ipciq5sl",
+    "0qkqtbjatm4zani9rkqxih6": "v86ww4hlx98uob9ipciq5sl",
+    "b11y97xrj4skfpt8zech6v6": "v86ww4hlx98uob9ipciq5sl",
+    "mwdv9nrpueyskt2baegwslr": "v86ww4hlx98uob9ipciq5sl"
+  }
+}

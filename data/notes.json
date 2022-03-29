@@ -1,0 +1,1492 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1648555196636,
+      "created": 1648555196636,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "ww9jqhl56e9hxpmai42fi73": {
+      "id": "ww9jqhl56e9hxpmai42fi73",
+      "title": "Learning Korean",
+      "desc": "",
+      "updated": 1647152309192,
+      "created": 1647150317323,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "d2f7970189f7ecab788ede1eadcff6bf",
+      "links": [],
+      "anchors": {
+        "introduction": {
+          "type": "header",
+          "text": "Introduction",
+          "value": "introduction",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "useful-links": {
+          "type": "header",
+          "text": "Useful Links",
+          "value": "useful-links",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "6vm07hefu1sbp0j4s1tgvl6"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "6vm07hefu1sbp0j4s1tgvl6": {
+      "id": "6vm07hefu1sbp0j4s1tgvl6",
+      "title": "Integrated Korean - Beginning 1",
+      "desc": "",
+      "updated": 1647329732334,
+      "created": 1647151565472,
+      "custom": {},
+      "fname": "beginning-1",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b02e62d71a3e2952fdd5b865d316129c",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "beginning-1",
+            "id": "6vm07hefu1sbp0j4s1tgvl6",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-1-greetings",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 1,
+              "offset": 602
+            },
+            "end": {
+              "line": 13,
+              "column": 36,
+              "offset": 637
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "beginning-1.lesson-1-greetings"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "beginning-1",
+            "id": "6vm07hefu1sbp0j4s1tgvl6",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-2-university-campus",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 1,
+              "offset": 639
+            },
+            "end": {
+              "line": 15,
+              "column": 44,
+              "offset": 682
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "beginning-1.lesson-2-university-campus"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "beginning-1",
+            "id": "6vm07hefu1sbp0j4s1tgvl6",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-3-korean-language-class",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 1,
+              "offset": 684
+            },
+            "end": {
+              "line": 17,
+              "column": 48,
+              "offset": 731
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "beginning-1.lesson-3-korean-language-class"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "beginning-1",
+            "id": "6vm07hefu1sbp0j4s1tgvl6",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-4-at-school",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 1,
+              "offset": 733
+            },
+            "end": {
+              "line": 19,
+              "column": 36,
+              "offset": 768
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "beginning-1.lesson-4-at-school"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "beginning-1",
+            "id": "6vm07hefu1sbp0j4s1tgvl6",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-5-my-day",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 1,
+              "offset": 770
+            },
+            "end": {
+              "line": 21,
+              "column": 33,
+              "offset": 802
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "beginning-1.lesson-5-my-day"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "beginning-1",
+            "id": "6vm07hefu1sbp0j4s1tgvl6",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-6-the-weekend",
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 1,
+              "offset": 804
+            },
+            "end": {
+              "line": 23,
+              "column": 38,
+              "offset": 841
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "beginning-1.lesson-6-the-weekend"
+          }
+        }
+      ],
+      "anchors": {
+        "introduction": {
+          "type": "header",
+          "text": "Introduction",
+          "value": "introduction",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "chapters": {
+          "type": "header",
+          "text": "Chapters",
+          "value": "chapters",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "v86ww4hlx98uob9ipciq5sl",
+        "5v8nxopvv9bpgzdn5q8tr8s",
+        "qo57nhgeh2jz0w192oudn1d",
+        "rbz5sh0s3rjgnw2jdmmi9zf",
+        "i17foucnj3gd33npg8hcx6s",
+        "fzdcbmzwu1ar024ij8ce2ri"
+      ],
+      "parent": "ww9jqhl56e9hxpmai42fi73",
+      "data": {}
+    },
+    "fzdcbmzwu1ar024ij8ce2ri": {
+      "id": "fzdcbmzwu1ar024ij8ce2ri",
+      "title": "Lesson 6 - The Weekend",
+      "desc": "",
+      "updated": 1647152664639,
+      "created": 1647152661796,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-6-the-weekend",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7b3dcad482e99626b09477d32a3ed7d5",
+      "links": [
+        {
+          "from": {
+            "fname": "beginning-1",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 1,
+              "offset": 804
+            },
+            "end": {
+              "line": 23,
+              "column": 38,
+              "offset": 841
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-6-the-weekend"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "6vm07hefu1sbp0j4s1tgvl6",
+      "data": {}
+    },
+    "i17foucnj3gd33npg8hcx6s": {
+      "id": "i17foucnj3gd33npg8hcx6s",
+      "title": "Lesson 5 - My Day",
+      "desc": "",
+      "updated": 1647152652027,
+      "created": 1647152650020,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-5-my-day",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5a73f1ff207d73a021fd8b7eb493cac8",
+      "links": [
+        {
+          "from": {
+            "fname": "beginning-1",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 1,
+              "offset": 770
+            },
+            "end": {
+              "line": 21,
+              "column": 33,
+              "offset": 802
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-5-my-day"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "6vm07hefu1sbp0j4s1tgvl6",
+      "data": {}
+    },
+    "rbz5sh0s3rjgnw2jdmmi9zf": {
+      "id": "rbz5sh0s3rjgnw2jdmmi9zf",
+      "title": "Lesson 4 - At School",
+      "desc": "",
+      "updated": 1647152638502,
+      "created": 1647152635558,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-4-at-school",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3ca832e2b0cf0536f0a7c0574cd05eae",
+      "links": [
+        {
+          "from": {
+            "fname": "beginning-1",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 1,
+              "offset": 733
+            },
+            "end": {
+              "line": 19,
+              "column": 36,
+              "offset": 768
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-4-at-school"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "6vm07hefu1sbp0j4s1tgvl6",
+      "data": {}
+    },
+    "qo57nhgeh2jz0w192oudn1d": {
+      "id": "qo57nhgeh2jz0w192oudn1d",
+      "title": "Lesson 3 - Korean Language Class",
+      "desc": "",
+      "updated": 1647152621952,
+      "created": 1647152619413,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-3-korean-language-class",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "54ef4f4eedb6014e96de8b33b1ca6582",
+      "links": [
+        {
+          "from": {
+            "fname": "beginning-1",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 1,
+              "offset": 684
+            },
+            "end": {
+              "line": 17,
+              "column": 48,
+              "offset": 731
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-3-korean-language-class"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "6vm07hefu1sbp0j4s1tgvl6",
+      "data": {}
+    },
+    "5v8nxopvv9bpgzdn5q8tr8s": {
+      "id": "5v8nxopvv9bpgzdn5q8tr8s",
+      "title": "Lesson 2 - University Campus",
+      "desc": "",
+      "updated": 1647329680819,
+      "created": 1647152590645,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-2-university-campus",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2991504e701c5348494b1bbb937e787a",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "beginning-1.lesson-2-university-campus",
+            "id": "5v8nxopvv9bpgzdn5q8tr8s",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-2-university-campus.new-words-and-expressions",
+          "alias": "beginning-1.lesson-2-university-campus.new-words-and-expressions",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 72,
+              "offset": 72
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "beginning-1.lesson-2-university-campus.new-words-and-expressions"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "beginning-1.lesson-2-university-campus",
+            "id": "5v8nxopvv9bpgzdn5q8tr8s",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-2-university-campus.cultural-norms",
+          "alias": "beginning-1.lesson-2-university-campus.cultural-norms",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 77
+            },
+            "end": {
+              "line": 4,
+              "column": 61,
+              "offset": 134
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "beginning-1.lesson-2-university-campus.cultural-norms"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "beginning-1.lesson-2-university-campus",
+            "id": "5v8nxopvv9bpgzdn5q8tr8s",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-2-university-campus.grammar",
+          "alias": "beginning-1.lesson-2-university-campus.grammar",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 139
+            },
+            "end": {
+              "line": 6,
+              "column": 54,
+              "offset": 189
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "beginning-1.lesson-2-university-campus.grammar"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "beginning-1.lesson-2-university-campus",
+            "id": "5v8nxopvv9bpgzdn5q8tr8s",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-2-university-campus.task-function",
+          "alias": "beginning-1.lesson-2-university-campus.task-function",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 4,
+              "offset": 194
+            },
+            "end": {
+              "line": 8,
+              "column": 60,
+              "offset": 250
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "beginning-1.lesson-2-university-campus.task-function"
+          }
+        },
+        {
+          "from": {
+            "fname": "beginning-1",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 1,
+              "offset": 639
+            },
+            "end": {
+              "line": 15,
+              "column": 44,
+              "offset": 682
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-2-university-campus"
+        }
+      ],
+      "anchors": {
+        "beginning-1lesson-2-university-campusnew-words-and-expressions": {
+          "type": "header",
+          "text": "beginning-1.lesson-2-university-campus.new-words-and-expressions",
+          "value": "beginning-1lesson-2-university-campusnew-words-and-expressions",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "beginning-1lesson-2-university-campuscultural-norms": {
+          "type": "header",
+          "text": "beginning-1.lesson-2-university-campus.cultural-norms",
+          "value": "beginning-1lesson-2-university-campuscultural-norms",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "beginning-1lesson-2-university-campusgrammar": {
+          "type": "header",
+          "text": "beginning-1.lesson-2-university-campus.grammar",
+          "value": "beginning-1lesson-2-university-campusgrammar",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "beginning-1lesson-2-university-campustask-function": {
+          "type": "header",
+          "text": "beginning-1.lesson-2-university-campus.task-function",
+          "value": "beginning-1lesson-2-university-campustask-function",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "ghj1homo8ljv360npjk6uwk",
+        "8jccm2ogmyjgt8hz50rvh8p",
+        "ar6fgobke62sudnh49xo68m",
+        "cb7crzpsqprsq6h362lp17p"
+      ],
+      "parent": "6vm07hefu1sbp0j4s1tgvl6",
+      "data": {}
+    },
+    "cb7crzpsqprsq6h362lp17p": {
+      "id": "cb7crzpsqprsq6h362lp17p",
+      "title": "Task Function",
+      "desc": "",
+      "updated": 1647329634949,
+      "created": 1647329634949,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-2-university-campus.task-function",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "31568c419b36a41326eeb9fb0f2670a3",
+      "links": [
+        {
+          "from": {
+            "fname": "beginning-1.lesson-2-university-campus",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 4,
+              "offset": 194
+            },
+            "end": {
+              "line": 8,
+              "column": 60,
+              "offset": 250
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-2-university-campus.task-function",
+          "alias": "beginning-1.lesson-2-university-campus.task-function"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "5v8nxopvv9bpgzdn5q8tr8s",
+      "data": {}
+    },
+    "ar6fgobke62sudnh49xo68m": {
+      "id": "ar6fgobke62sudnh49xo68m",
+      "title": "New Words and Expressions",
+      "desc": "",
+      "updated": 1647329601798,
+      "created": 1647329601798,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-2-university-campus.new-words-and-expressions",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "02fe5eeec4956997b63097491f6aa2da",
+      "links": [
+        {
+          "from": {
+            "fname": "beginning-1.lesson-2-university-campus",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 72,
+              "offset": 72
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-2-university-campus.new-words-and-expressions",
+          "alias": "beginning-1.lesson-2-university-campus.new-words-and-expressions"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "5v8nxopvv9bpgzdn5q8tr8s",
+      "data": {}
+    },
+    "8jccm2ogmyjgt8hz50rvh8p": {
+      "id": "8jccm2ogmyjgt8hz50rvh8p",
+      "title": "Grammar",
+      "desc": "",
+      "updated": 1647329625478,
+      "created": 1647329625478,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-2-university-campus.grammar",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4e0c74b71d66d22116f30cfc8be799e0",
+      "links": [
+        {
+          "from": {
+            "fname": "beginning-1.lesson-2-university-campus",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 139
+            },
+            "end": {
+              "line": 6,
+              "column": 54,
+              "offset": 189
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-2-university-campus.grammar",
+          "alias": "beginning-1.lesson-2-university-campus.grammar"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "5v8nxopvv9bpgzdn5q8tr8s",
+      "data": {}
+    },
+    "ghj1homo8ljv360npjk6uwk": {
+      "id": "ghj1homo8ljv360npjk6uwk",
+      "title": "Cultural Norms",
+      "desc": "",
+      "updated": 1647329619109,
+      "created": 1647329619109,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-2-university-campus.cultural-norms",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "422e4fc346de62d68e727d4efaaf8444",
+      "links": [
+        {
+          "from": {
+            "fname": "beginning-1.lesson-2-university-campus",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 77
+            },
+            "end": {
+              "line": 4,
+              "column": 61,
+              "offset": 134
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-2-university-campus.cultural-norms",
+          "alias": "beginning-1.lesson-2-university-campus.cultural-norms"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "5v8nxopvv9bpgzdn5q8tr8s",
+      "data": {}
+    },
+    "v86ww4hlx98uob9ipciq5sl": {
+      "id": "v86ww4hlx98uob9ipciq5sl",
+      "title": "Lesson 1 - Greetings",
+      "desc": "",
+      "updated": 1647329421584,
+      "created": 1647151565468,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-1-greetings",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8586ca618ab1d0ba8f41dcbb11485950",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "beginning-1.lesson-1-greetings",
+            "id": "v86ww4hlx98uob9ipciq5sl",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-1-greetings.new-words-and-expressions",
+          "alias": "beginning-1.lesson-1-greetings.new-words-and-expressions",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 64,
+              "offset": 64
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "beginning-1.lesson-1-greetings.new-words-and-expressions"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "beginning-1.lesson-1-greetings",
+            "id": "v86ww4hlx98uob9ipciq5sl",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-1-greetings.cultural-norms",
+          "alias": "beginning-1.lesson-1-greetings.cultural-norms",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 4,
+              "offset": 109
+            },
+            "end": {
+              "line": 7,
+              "column": 53,
+              "offset": 158
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "beginning-1.lesson-1-greetings.cultural-norms"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "beginning-1.lesson-1-greetings",
+            "id": "v86ww4hlx98uob9ipciq5sl",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-1-greetings.grammar",
+          "alias": "beginning-1.lesson-1-greetings.grammar",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 4,
+              "offset": 244
+            },
+            "end": {
+              "line": 13,
+              "column": 46,
+              "offset": 286
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "beginning-1.lesson-1-greetings.grammar"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "beginning-1.lesson-1-greetings",
+            "id": "v86ww4hlx98uob9ipciq5sl",
+            "vaultName": "vault"
+          },
+          "value": "beginning-1.lesson-1-greetings.task-function",
+          "alias": "beginning-1.lesson-1-greetings.task-function",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 4,
+              "offset": 578
+            },
+            "end": {
+              "line": 27,
+              "column": 52,
+              "offset": 626
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "beginning-1.lesson-1-greetings.task-function"
+          }
+        },
+        {
+          "from": {
+            "fname": "beginning-1",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 1,
+              "offset": 602
+            },
+            "end": {
+              "line": 13,
+              "column": 36,
+              "offset": 637
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-1-greetings"
+        }
+      ],
+      "anchors": {
+        "beginning-1lesson-1-greetingsnew-words-and-expressions": {
+          "type": "header",
+          "text": "beginning-1.lesson-1-greetings.new-words-and-expressions",
+          "value": "beginning-1lesson-1-greetingsnew-words-and-expressions",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "beginning-1lesson-1-greetingscultural-norms": {
+          "type": "header",
+          "text": "beginning-1.lesson-1-greetings.cultural-norms",
+          "value": "beginning-1lesson-1-greetingscultural-norms",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "beginning-1lesson-1-greetingsgrammar": {
+          "type": "header",
+          "text": "beginning-1.lesson-1-greetings.grammar",
+          "value": "beginning-1lesson-1-greetingsgrammar",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "beginning-1lesson-1-greetingstask-function": {
+          "type": "header",
+          "text": "beginning-1.lesson-1-greetings.task-function",
+          "value": "beginning-1lesson-1-greetingstask-function",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "mwdv9nrpueyskt2baegwslr",
+        "b11y97xrj4skfpt8zech6v6",
+        "0qkqtbjatm4zani9rkqxih6",
+        "o10gbvvafeqyshk9te3k14f"
+      ],
+      "parent": "6vm07hefu1sbp0j4s1tgvl6",
+      "data": {}
+    },
+    "o10gbvvafeqyshk9te3k14f": {
+      "id": "o10gbvvafeqyshk9te3k14f",
+      "title": "Task/Function",
+      "desc": "",
+      "updated": 1647157368168,
+      "created": 1647157365068,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-1-greetings.task-function",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "283f2cb8e828000d643735dae2029431",
+      "links": [
+        {
+          "from": {
+            "fname": "beginning-1.lesson-1-greetings",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 4,
+              "offset": 578
+            },
+            "end": {
+              "line": 27,
+              "column": 52,
+              "offset": 626
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-1-greetings.task-function",
+          "alias": "beginning-1.lesson-1-greetings.task-function"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "v86ww4hlx98uob9ipciq5sl",
+      "data": {}
+    },
+    "0qkqtbjatm4zani9rkqxih6": {
+      "id": "0qkqtbjatm4zani9rkqxih6",
+      "title": "New Words and Expressions",
+      "desc": "",
+      "updated": 1647345906013,
+      "created": 1647152726471,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-1-greetings.new-words-and-expressions",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5026edabfb98cfbba7e0e81cb4c49546",
+      "links": [
+        {
+          "from": {
+            "fname": "beginning-1.lesson-1-greetings",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 64,
+              "offset": 64
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-1-greetings.new-words-and-expressions",
+          "alias": "beginning-1.lesson-1-greetings.new-words-and-expressions"
+        }
+      ],
+      "anchors": {
+        "nouns": {
+          "type": "header",
+          "text": "Nouns",
+          "value": "nouns",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "pronouns": {
+          "type": "header",
+          "text": "Pronouns",
+          "value": "pronouns",
+          "line": 53,
+          "column": 0,
+          "depth": 2
+        },
+        "verbs": {
+          "type": "header",
+          "text": "Verbs",
+          "value": "verbs",
+          "line": 66,
+          "column": 0,
+          "depth": 2
+        },
+        "adjectives": {
+          "type": "header",
+          "text": "Adjectives",
+          "value": "adjectives",
+          "line": 75,
+          "column": 0,
+          "depth": 2
+        },
+        "copulas": {
+          "type": "header",
+          "text": "Copulas",
+          "value": "copulas",
+          "line": 88,
+          "column": 0,
+          "depth": 2
+        },
+        "adverbs": {
+          "type": "header",
+          "text": "Adverbs",
+          "value": "adverbs",
+          "line": 105,
+          "column": 0,
+          "depth": 2
+        },
+        "particles": {
+          "type": "header",
+          "text": "Particles",
+          "value": "particles",
+          "line": 118,
+          "column": 0,
+          "depth": 2
+        },
+        "suffix": {
+          "type": "header",
+          "text": "Suffix",
+          "value": "suffix",
+          "line": 135,
+          "column": 0,
+          "depth": 2
+        },
+        "notes-in-conversation": {
+          "type": "header",
+          "text": "Notes in Conversation",
+          "value": "notes-in-conversation",
+          "line": 144,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "v86ww4hlx98uob9ipciq5sl",
+      "data": {}
+    },
+    "b11y97xrj4skfpt8zech6v6": {
+      "id": "b11y97xrj4skfpt8zech6v6",
+      "title": "Grammar",
+      "desc": "",
+      "updated": 1647152754448,
+      "created": 1647152754448,
+      "custom": {},
+      "fname": "beginning-1.lesson-1-greetings.grammar",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "94c0a0caf86de5ad8a917088110c1ffb",
+      "links": [
+        {
+          "from": {
+            "fname": "beginning-1.lesson-1-greetings",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 4,
+              "offset": 244
+            },
+            "end": {
+              "line": 13,
+              "column": 46,
+              "offset": 286
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-1-greetings.grammar",
+          "alias": "beginning-1.lesson-1-greetings.grammar"
+        }
+      ],
+      "anchors": {
+        "g11-equational-expressions": {
+          "type": "header",
+          "text": "G1.1: Equational Expressions",
+          "value": "g11-equational-expressions",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "noun-equivalency": {
+          "type": "header",
+          "text": "Noun Equivalency",
+          "value": "noun-equivalency",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        },
+        "noun-inquivalency": {
+          "type": "header",
+          "text": "Noun Inquivalency",
+          "value": "noun-inquivalency",
+          "line": 26,
+          "column": 0,
+          "depth": 3
+        },
+        "g12-omission-of-redundant-elements": {
+          "type": "header",
+          "text": "G1.2: Omission of redundant elements",
+          "value": "g12-omission-of-redundant-elements",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "g13-comparing-items-은는-vs-도": {
+          "type": "header",
+          "text": "G1.3: Comparing items: 은/는 vs. 도",
+          "value": "g13-comparing-items-은는-vs-도",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        },
+        "g14-yes-or-no-questions": {
+          "type": "header",
+          "text": "G1.4: Yes-or-no questions",
+          "value": "g14-yes-or-no-questions",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "v86ww4hlx98uob9ipciq5sl",
+      "data": {}
+    },
+    "mwdv9nrpueyskt2baegwslr": {
+      "id": "mwdv9nrpueyskt2baegwslr",
+      "title": "Cultural Norms",
+      "desc": "",
+      "updated": 1647346548491,
+      "created": 1647152745845,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "beginning-1.lesson-1-greetings.cultural-norms",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b0b5ce3f4efa1a60b8823cd8c5a3a2e2",
+      "links": [
+        {
+          "from": {
+            "fname": "beginning-1.lesson-1-greetings",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 4,
+              "offset": 109
+            },
+            "end": {
+              "line": 7,
+              "column": 53,
+              "offset": 158
+            },
+            "indent": []
+          },
+          "value": "beginning-1.lesson-1-greetings.cultural-norms",
+          "alias": "beginning-1.lesson-1-greetings.cultural-norms"
+        }
+      ],
+      "anchors": {
+        "physical-greeting": {
+          "type": "header",
+          "text": "Physical Greeting",
+          "value": "physical-greeting",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "social-hierarchy-and-terms-of-address": {
+          "type": "header",
+          "text": "Social Hierarchy and Terms of Address",
+          "value": "social-hierarchy-and-terms-of-address",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "v86ww4hlx98uob9ipciq5sl",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "ww9jqhl56e9hxpmai42fi73",
+      "title": "Learning Korean",
+      "desc": "",
+      "updated": 1647152309192,
+      "created": 1647150317323,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "d2f7970189f7ecab788ede1eadcff6bf",
+      "links": [],
+      "anchors": {
+        "introduction": {
+          "type": "header",
+          "text": "Introduction",
+          "value": "introduction",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "useful-links": {
+          "type": "header",
+          "text": "Useful Links",
+          "value": "useful-links",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "6vm07hefu1sbp0j4s1tgvl6"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n## Introduction\n\nIn this repository, I have stored my comprehensive notes while learning Korean from the textbook series \"[Integrated Korean](https://kleartextbook.com/category/a_about-klear/a_publications/)\". The notes are tailored to how I learn best, thus it may not always be applicable to you. Nonetheless, good luck on your endeavour to learn this language.\n\n## Useful Links\n\n- To memorise and practice vocabulary, access: \n  [Quizlet](https://quizlet.com/junu10/folders/korean?x=1xqt&i=9v8a5)\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "ww9jqhl56e9hxpmai42fi73",
+    "title": "Learning Korean",
+    "desc": "",
+    "updated": 1647152309192,
+    "created": 1647150317323,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "d2f7970189f7ecab788ede1eadcff6bf",
+    "links": [],
+    "anchors": {
+      "introduction": {
+        "type": "header",
+        "text": "Introduction",
+        "value": "introduction",
+        "line": 8,
+        "column": 0,
+        "depth": 2
+      },
+      "useful-links": {
+        "type": "header",
+        "text": "Useful Links",
+        "value": "useful-links",
+        "line": 12,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "6vm07hefu1sbp0j4s1tgvl6"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n## Introduction\n\nIn this repository, I have stored my comprehensive notes while learning Korean from the textbook series \"[Integrated Korean](https://kleartextbook.com/category/a_about-klear/a_publications/)\". The notes are tailored to how I learn best, thus it may not always be applicable to you. Nonetheless, good luck on your endeavour to learn this language.\n\n## Useful Links\n\n- To memorise and practice vocabulary, access: \n  [Quizlet](https://quizlet.com/junu10/folders/korean?x=1xqt&i=9v8a5)\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
