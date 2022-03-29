@@ -45,3 +45,21 @@ Korean's don't use the word you when refering to a second party (most of the tim
 </table>
 
 **Close friend:** [First Name] + 아/야  
+<table width="100%">
+    <tr style ='border: 1px'>
+        <td width="20%" style ='border: 0px'> <b>Example</b> </td>
+        <td width="80%" style ='border: 0px'> 영미야 <br> 요진아 </td>
+    </tr>
+</table>
+
+**Seniors/Elder Sibling:** [Relation] (+ 님)
+<table width="100%">
+    <tr style ='border: 1px'>
+        <td width="50%" style ='border: 0px'> <b>Male Speaker</b> </td>
+        <td width="50%" style ='border: 0px'> 형 (Elder Brother) <br> 누나 (Elder Sister) </td>
+    </tr>
+    <tr style ='border: 1px'>
+        <td width="50%" style ='border: 0px'> <b> Female Speaker</b> </td>
+        <td width="50%" style ='border: 0px'> 어빠 (Elder Brother) <br> 언니 (Elder Sister) </td>
+    </tr>
+</table>
